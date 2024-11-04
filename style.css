@@ -4,7 +4,7 @@ body{
 }
 
 header {
-border-bottom: solid 2px rgb(rgb(76, 0, 255), rgba(0, 128, 0, 0), rgb(0, 0, 0));
+border-bottom: solid 2px blue;
 padding: 20px;
 font-size: 32px;
 color: aqua;
