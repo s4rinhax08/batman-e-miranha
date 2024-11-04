@@ -1,6 +1,6 @@
 body{
     color: rgb(0, 132, 255);
-    background-color:rgba(255, 0, 157, 0.452);
+    background-color:rgba(140, 0, 255, 0.904);
 }
 
 header {
@@ -11,7 +11,7 @@ color: aqua;
 
 }
 section{
-    background-color: rgba(162, 0, 255, 0.651);
+    background-color: rgba(255, 0, 212, 0.651);
     padding-top: 80px;
     padding-bottom: 80px;
     display: flex;
